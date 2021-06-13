@@ -4,7 +4,7 @@ html, body {
 
 body {
   align-items: center;
-  background-color: #ffffff;
+  background-color: #1D1F20;
   display: flex;
   justify-content: center;
 }
@@ -25,13 +25,13 @@ body {
 }
 .loader:before {
   animation: ball1 1s infinite;  
-  background-color: #ffffff;
+  background-color: #cb2025;
   box-shadow: 30px 0 0 #f8b334;
   margin-bottom: 10px;
 }
 .loader:after {
   animation: ball2 1s infinite; 
-  background-color: #ffffff;
+  background-color: #00a096;
   box-shadow: 30px 0 0 #97bf0d;
 }
 
