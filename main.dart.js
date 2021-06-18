@@ -8928,7 +8928,7 @@ s=p}while(true)switch(s){case 0:h=$.bh()
 g=t.g
 f=S.dq(h,Q.fJ(),g)
 e=S.dq(h,M.Vv(),t.yl)
-d=P.n7("http://127.0.0.1:5000/register?national_code="+f.ry)
+d=P.n7("https://ghodsweb.pythonanywhere.com/register?national_code="+f.ry)
 c=null
 p=4
 s=7
@@ -19845,7 +19845,7 @@ i=S.dq(k,Q.fJ(),j)
 h=S.dq(k,M.Vv(),t.yl)
 g=S.dq(k,M.ad7(),t.z2)
 f=null
-e=P.n7("http://127.0.0.1:5000/update_student?national_code="+i.ry+"&phone="+i.au+"&postal_code="+i.b4+"&address="+i.bF+"&access_username=Admin@Erfan!&access_pass=@Nn11571847!")
+e=P.n7("https://ghodsweb.pythonanywhere.com/update_student?national_code="+i.ry+"&phone="+i.au+"&postal_code="+i.b4+"&address="+i.bF+"&access_username=Admin@Erfan!&access_pass=@Nn11571847!")
 p=4
 s=7
 return P.a8(G.azc(e),$async$ab7)
@@ -61438,7 +61438,7 @@ a7r:function(a){return this.LO(null,null,a)},
 a7s:function(a,b){return this.LO(a,b,null)},
 gao:function(a){return this.db}}
 F.FO.prototype={
-G:function(a,b){var s=H.a([C.Dh,C.Dl],t.Ez),r=H.a([C.NH],t._p),q=X.ad1(null,"iran_sans",C.l,C.a5)
+G:function(a,b){var s=H.a([C.Dh,C.Dl],t.Ez),r=H.a([C.NH],t._p),q=X.ad1(null,"Far-Yekan",C.l,C.a5)
 return new S.uj(P.aF(["/",new F.Y8()],t.bD,t.sy),"/",q,s,r,!1,null)}}
 F.Y8.prototype={
 $1:function(a){return new L.m7(null)},
@@ -61679,12 +61679,12 @@ $S:2}
 Y.D5.prototype={
 G:function(a,b){var s=null
 X.acX(C.Bk)
-return M.ail(E.afV(C.l,!0,L.dt("\u0633\u0627\u0645\u0627\u0646\u0647 \u062f\u0631\u06cc\u0627\u0641\u062a \u0631\u0645\u0632 \u0639\u0628\u0648\u0631 \u067e\u0627\u062f\u0627 \u062f\u0628\u06cc\u0631\u0633\u062a\u0627\u0646 \u0642\u062f\u0633",s,s,s,A.bv(s,s,C.a5,s,s,s,s,s,"iran_sans",s,s,25,s,C.J,s,s,!0,s,s,s,s,s,s),s,s)),new P.B(4294770175),T.f_(C.b8,H.a([T.bZ(U.agX("assets/images/bodyBG.png"),s,s),T.bZ(new V.D4(S.dq($.bh(),M.Vv(),t.yl),s),s,s)],t.Ma),C.bc))}}
+return M.ail(E.afV(C.l,!0,L.dt("\u0633\u0627\u0645\u0627\u0646\u0647 \u062f\u0631\u06cc\u0627\u0641\u062a \u0631\u0645\u0632 \u0639\u0628\u0648\u0631 \u067e\u0627\u062f\u0627 \u062f\u0628\u06cc\u0631\u0633\u062a\u0627\u0646 \u0642\u062f\u0633",s,s,s,A.bv(s,s,C.a5,s,s,s,s,s,s,s,s,25,s,C.J,s,s,!0,s,s,s,s,s,s),s,s)),new P.B(4294770175),T.f_(C.b8,H.a([T.bZ(U.agX("assets/images/bodyBG.png"),s,s),T.bZ(new V.D4(S.dq($.bh(),M.Vv(),t.yl),s),s,s)],t.Ma),C.bc))}}
 Y.FI.prototype={
 G:function(a,b){var s,r,q=null
 X.acX(C.Bk)
 s=b.a6(t.w).f
-s=E.afV(C.l,!0,M.ci(q,T.bZ(L.dt("\u0633\u0627\u0645\u0627\u0646\u0647 \u062f\u0631\u06cc\u0627\u0641\u062a \u0631\u0645\u0632 \u0639\u0628\u0648\u0631 \u067e\u0627\u062f\u0627 \u062f\u0628\u06cc\u0631\u0633\u062a\u0627\u0646 \u0642\u062f\u0633",q,q,q,A.bv(q,q,C.a5,q,q,q,q,q,"iran_sans",q,q,25,q,C.J,q,q,!0,q,q,q,q,q,q),q,q),q,q),C.t,q,q,q,q,q,q,q,q,q,s.a.a))
+s=E.afV(C.l,!0,M.ci(q,T.bZ(L.dt("\u0633\u0627\u0645\u0627\u0646\u0647 \u062f\u0631\u06cc\u0627\u0641\u062a \u0631\u0645\u0632 \u0639\u0628\u0648\u0631 \u067e\u0627\u062f\u0627 \u062f\u0628\u06cc\u0631\u0633\u062a\u0627\u0646 \u0642\u062f\u0633",q,q,q,A.bv(q,q,C.a5,q,q,q,q,q,q,q,q,25,q,C.J,q,q,!0,q,q,q,q,q,q),q,q),q,q),C.t,q,q,q,q,q,q,q,q,q,s.a.a))
 r=T.f_(C.b8,H.a([T.bZ(U.agX("assets/images/bodyBG.png"),q,q),T.bZ(new T.cs(C.EV,new V.FH(S.dq($.bh(),M.Vv(),t.yl),q),q),q,q)],t.Ma),C.bc)
 return M.ail(s,new P.B(4294770175),T.bZ(new E.I8(!0,r,q),q,q))}}
 L.m7.prototype={
